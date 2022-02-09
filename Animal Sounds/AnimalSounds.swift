@@ -11,7 +11,7 @@ import SDWebImage
 
 class AnimalSounds: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
    
-    let apiUrl = "https://www.dropbox.com/s/gw049r6gszx82f8/Animal_Sound.json?dl=1"
+    let apiUrl = "XYZ"
     
     var category = [[String:Any]]()
     var data = [[String:Any]]()
