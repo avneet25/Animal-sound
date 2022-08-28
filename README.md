@@ -1,5 +1,4 @@
 # Animal-Sounds-App
-First project
 
 Designed for children's learning, the animal sound app covers a wide range of organisms. User can play the sound an animal makes and read a short description. They
 can also download their favourite sounds locally on the app. Categorization of animals under water, domestic, insect, wild etc can also provide a learning curve for target users.
