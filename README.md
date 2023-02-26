@@ -1,4 +1,4 @@
-# Animal-Sounds-App
+# Animal-Sound
 
 Designed for children's learning (user can play the sound an animal makes and read a short description). They
 can also download their favourite sounds locally on the app.
